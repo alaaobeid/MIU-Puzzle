@@ -1,7 +1,7 @@
-# MIU-Puzzle
+# MU-Puzzle
 Solved MIU puzzle using autonomous agents, which utilised breadth-first search, depth limited dfs and iterative deepening search algorithms.
 
-The MIU system is presented as a puzzle: can you transform the string MI into the goal
+The MU system is presented as a puzzle: can you transform the string MI into the goal
 string? In order to accomplish this, you are given the following rules:
 
 Rule 1: If your string ends in an I, you can add a U on the end: xI → xIU
